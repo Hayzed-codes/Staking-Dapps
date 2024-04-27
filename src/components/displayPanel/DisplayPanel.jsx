@@ -17,7 +17,7 @@ const DisplayPanel = () => {
         </div>
       </div>
 
-      <div className="flex justify-around">
+      <div className="flex justify-around px-40 mt-20">
         <StakedAmount />
         <RewardRate />
         <EarnedReward />
